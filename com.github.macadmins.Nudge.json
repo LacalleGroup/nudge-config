@@ -21,7 +21,7 @@
             "nonActivelyExploitedCVEsMajorUpgradeSLA": 14,
             "nonActivelyExploitedCVEsMinorUpdateSLA": 14,
             "standardMajorUpgradeSLA": 28,
-            "standardMinorUpdateSLA": 28,
+            "standardMinorUpdateSLA": 28
         }
     ],
     "userExperience": {
@@ -35,7 +35,7 @@
         "showDaysRemainingToUpdate": true,
         "showRequiredDate": true,
         "simpleMode": false,
-        "requiredInstallationDisplayFormat": "MM/dd/yyyy",
+        "requiredInstallationDisplayFormat": "MM/dd/yyyy"
     }
 }
 
