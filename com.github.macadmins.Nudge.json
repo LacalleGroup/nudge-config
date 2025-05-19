@@ -11,10 +11,10 @@
     "osVersionRequirements": [
         {
             "requiredMinimumOSVersion": "latest",
-            "activelyExploitedCVEsMajorUpgradeSLA": 14,
-            "activelyExploitedCVEsMinorUpdateSLA": 14,
-            "nonActivelyExploitedCVEsMajorUpgradeSLA": 21,
-            "nonActivelyExploitedCVEsMinorUpdateSLA": 21,
+            "activelyExploitedCVEsMajorUpgradeSLA": 7,
+            "activelyExploitedCVEsMinorUpdateSLA": 7,
+            "nonActivelyExploitedCVEsMajorUpgradeSLA": 14,
+            "nonActivelyExploitedCVEsMinorUpdateSLA": 14,
             "standardMajorUpgradeSLA": 28,
             "standardMinorUpdateSLA": 28,
             "unsupportedURL": "https://support.apple.com/unsupported",
@@ -28,7 +28,7 @@
     ],
     "userExperience": {
         "allowMovableWindow": true,
-        "nudgeMajorUpgradeEventLaunchDelay": 7,
+        "nudgeMajorUpgradeEventLaunchDelay": 2,
         "nudgeMinorUpdateEventLaunchDelay": 2
     },
     "userInterface": {
@@ -47,17 +47,6 @@
                 "mainContentSubHeaderUnsupported": "Please work with your local IT team to obtain a replacement device",
                 "mainContentTextUnsupported": "A fully up-to-date device is required to ensure that IT can accurately protect your device.",
                 "subHeaderUnsupported": "A friendly reminder from your local IT team"
-            },
-            {
-                "_language": "es",
-                "actionButtonTextUnsupported": "Reemplazar su dispositivo",
-                "applicationTerminatedTitleText": "Aplicación terminada",
-                "applicationTerminatedBodyText": "Actualice su dispositivo para usar esta aplicación",
-                "mainContentHeaderUnsupported": "Su dispositivo ya no es capaz de recibir actualizaciones críticas de seguridad",
-                "mainContentNoteUnsupported": "**Notas importantes**",
-                "mainContentSubHeaderUnsupported": "Trabaje con su equipo local de TI para obtener un dispositivo de reemplazo",
-                "mainContentTextUnsupported": "Se requiere un dispositivo completamente actualizado para garantizar que TI pueda proteger su dispositivo con precisión.",
-                "subHeaderUnsupported": "Un recordatorio amistoso de su equipo de IT local"
             }
         ]
     }
