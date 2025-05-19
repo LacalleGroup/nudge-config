@@ -36,19 +36,6 @@
         "showRequiredDate": true,
         "simpleMode": false,
         "requiredInstallationDisplayFormat": "MM/dd/yyyy",
-        "updateElements": [
-            {
-                "_language": "en",
-                "actionButtonTextUnsupported": "Please contact ITSupport@lacallegroup.com",
-                "applicationTerminatedTitleText": "Application terminated",
-                "applicationTerminatedBodyText": "Please update your device to use this application",
-                "mainContentHeaderUnsupported": "Your device is no longer capable of receiving critical security updates",
-                "mainContentNoteUnsupported": "**Important Notes**",
-                "mainContentSubHeaderUnsupported": "Please contact ITSupport@lacallegroup.com",
-                "mainContentTextUnsupported": "A fully up-to-date device is required to ensure that IT can accurately protect your device.",
-                "subHeaderUnsupported": "Please contact ITSupport@lacallegroup.com"
-            }
-        ]
     }
 }
 
