@@ -35,6 +35,7 @@
         "showActivelyExploitedCVEs": true,
         "showDaysRemainingToUpdate": true,
         "showRequiredDate": true,
+        "simpleMode": true,
         "requiredInstallationDisplayFormat": "MM/dd/yyyy",
         "updateElements": [
             {
