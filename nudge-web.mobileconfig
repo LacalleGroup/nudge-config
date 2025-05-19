@@ -1,33 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-<dict>
-    <key>PayloadContent</key>
-    <array>
-        <dict>
-            <key>PayloadType</key>
-            <string>com.github.macadmins.Nudge</string>
-            <key>PayloadVersion</key>
-            <integer>1</integer>
-            <key>PayloadIdentifier</key>
-            <string>com.lacallegroup.nudge.remoteconfig</string>
-            <key>PayloadUUID</key>
-            <string>5F291237-E163-4BC9-9E18-2B93B7E9438D</string>
-            <key>PayloadDisplayName</key>
-            <string>Nudge Remote JSON Config</string>
-            <key>json-url</key>
-            <string>https://raw.githubusercontent.com/LacalleGroup/nudge-config/main/com.github.macadmins.Nudge.json</string>
-        </dict>
-    </array>
-    <key>PayloadDisplayName</key>
-    <string>Nudge Remote Configuration Profile</string>
-    <key>PayloadIdentifier</key>
-    <string>com.lacallegroup.nudge</string>
-    <key>PayloadUUID</key>
-    <string>7758B0C0-5791-4C8D-9493-1E204EB5558C</string>
-    <key>PayloadType</key>
-    <string>Configuration</string>
-    <key>PayloadVersion</key>
-    <integer>2</integer>
-</dict>
+    <dict>
+        <key>PayloadContent</key>
+        <array>
+            <dict>
+                <key>PayloadDescription</key>
+                <string>Configures Nudge to use remote JSON configuration</string>
+                <key>PayloadDisplayName</key>
+                <string>Nudge Remote Configuration</string>
+                <key>PayloadIdentifier</key>
+                <string>com.github.macadmins.Nudge.preferences</string>
+                <key>PayloadOrganization</key>
+                <string>Lacalle Group</string>
+                <key>PayloadType</key>
+                <string>com.github.macadmins.Nudge</string>
+                <key>PayloadUUID</key>
+                <string>5182D110-347F-4A75-B671-2D688ABA8AF1</string>
+                <key>PayloadVersion</key>
+                <integer>1</integer>
+                <key>json-url</key>
+                <string>https://raw.githubusercontent.com/LacalleGroup/nudge-config/main/com.github.macadmins.Nudge.json</string>
+            </dict>
+        </array>
+        <key>PayloadDescription</key>
+        <string>Configures Nudge settings for macOS updates</string>
+        <key>PayloadDisplayName</key>
+        <string>Nudge Configuration</string>
+        <key>PayloadIdentifier</key>
+        <string>com.lacallegroup.nudge</string>
+        <key>PayloadOrganization</key>
+        <string>Lacalle Group</string>
+        <key>PayloadScope</key>
+        <string>System</string>
+        <key>PayloadType</key>
+        <string>Configuration</string>
+        <key>PayloadUUID</key>
+        <string>DDFD51B2-7FD5-49B9-A6B8-18D5A50ACFAC</string>
+        <key>PayloadVersion</key>
+        <integer>1</integer>
+    </dict>
 </plist>
