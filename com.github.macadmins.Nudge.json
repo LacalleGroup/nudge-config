@@ -16,10 +16,10 @@
     "osVersionRequirements": [
         {
             "requiredMinimumOSVersion": "latest",
-            "activelyExploitedCVEsMajorUpgradeSLA": 7,
-            "activelyExploitedCVEsMinorUpdateSLA": 7,
-            "nonActivelyExploitedCVEsMajorUpgradeSLA": 14,
-            "nonActivelyExploitedCVEsMinorUpdateSLA": 14,
+            "activelyExploitedCVEsMajorUpgradeSLA": 14,
+            "activelyExploitedCVEsMinorUpdateSLA": 14,
+            "nonActivelyExploitedCVEsMajorUpgradeSLA": 21,
+            "nonActivelyExploitedCVEsMinorUpdateSLA": 21,
             "standardMajorUpgradeSLA": 28,
             "standardMinorUpdateSLA": 28
         }
@@ -28,7 +28,15 @@
         "allowGracePeriods": true,
         "allowMovableWindow": true,
         "nudgeMajorUpgradeEventLaunchDelay": 2,
-        "nudgeMinorUpdateEventLaunchDelay": 2
+        "nudgeMinorUpdateEventLaunchDelay": 2,
+        "allowedDeferrals": 100000,
+        "allowedDeferralCount": 100000,
+        "approachingWindowTime": 72,
+        "imminentWindowTime": 24,
+        "elapsedRefreshCycle": 86400,
+        "imminentRefreshCycle": 86400,
+        "approachingRefreshCycle": 86400,
+        "initialRefreshCycle": 86400
     },
     "userInterface": {
         "showActivelyExploitedCVEs": true,
