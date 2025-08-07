@@ -20,8 +20,8 @@
             "activelyExploitedCVEsMinorUpdateSLA": 14,
             "nonActivelyExploitedCVEsMajorUpgradeSLA": 21,
             "nonActivelyExploitedCVEsMinorUpdateSLA": 21,
-            "standardMajorUpgradeSLA": 28,
-            "standardMinorUpdateSLA": 28
+            "standardMajorUpgradeSLA": 60,
+            "standardMinorUpdateSLA": 60
         }
     ],
     "userExperience": {
