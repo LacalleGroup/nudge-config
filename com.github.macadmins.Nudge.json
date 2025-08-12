@@ -27,7 +27,7 @@
     "userExperience": {
         "allowGracePeriods": true,
         "allowMovableWindow": true,
-        "nudgeMajorUpgradeEventLaunchDelay": 2,
+        "nudgeMajorUpgradeEventLaunchDelay": 60,
         "nudgeMinorUpdateEventLaunchDelay": 2,
         "allowedDeferrals": 100000,
         "allowedDeferralCount": 100000,
