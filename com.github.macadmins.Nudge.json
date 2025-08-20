@@ -16,12 +16,12 @@
     "osVersionRequirements": [
         {
             "requiredMinimumOSVersion": "latest",
-            "activelyExploitedCVEsMajorUpgradeSLA": 28,
-            "activelyExploitedCVEsMinorUpdateSLA": 28,
-            "nonActivelyExploitedCVEsMajorUpgradeSLA": 60,
-            "nonActivelyExploitedCVEsMinorUpdateSLA": 60,
+            "activelyExploitedCVEsMajorUpgradeSLA": 21,
+            "activelyExploitedCVEsMinorUpdateSLA": 14,
+            "nonActivelyExploitedCVEsMajorUpgradeSLA": 45,
+            "nonActivelyExploitedCVEsMinorUpdateSLA": 45,
             "standardMajorUpgradeSLA": 60,
-            "standardMinorUpdateSLA": 60
+            "standardMinorUpdateSLA": 45
         }
     ],
     "userExperience": {
